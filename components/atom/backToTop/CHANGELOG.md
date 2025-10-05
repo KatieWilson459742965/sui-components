@@ -125,3 +125,4 @@
 * **atom/backToTop:** space between block scss ([b6fb07e](https://github.com/SUI-Components/sui-components/commit/b6fb07e5168cd873261f4e595f6f776dad74b0f7))
 * **atom/backToTop:** use of external lib @s-ui/js ([21a4125](https://github.com/SUI-Components/sui-components/commit/21a4125bdd3a965804b72a0b97c411696be92c64))
 * **atom/backToTop:** use of z-index sui-theme variable ([e7a1479](https://github.com/SUI-Components/sui-components/commit/e7a14799b741d9e4e46d85052521676fe6d71397))
+<!-- Auto-update: 2025-10-05T12:56:07.086416 -->
