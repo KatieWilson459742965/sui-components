@@ -248,3 +248,4 @@
 * **atom/upload:** readme and some fixes ([7da5fc0](https://github.com/SUI-Components/sui-components/commit/7da5fc0989623554747aa89cfb5079a5e008d150))
 * **atom/upload:** responsive demo ([11dd158](https://github.com/SUI-Components/sui-components/commit/11dd158d65aafb5dab30efd36f0ac31b15bf8680))
 * **atom/upload:** success state ([2aee062](https://github.com/SUI-Components/sui-components/commit/2aee062b427684b13c76e5db99748abe2a2156a3))
+<!-- Auto-update: 2025-10-06T13:48:41.501398 -->
